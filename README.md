@@ -65,6 +65,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 https://github-search-rm820mc2s-zeeshan8281.vercel.app/
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
