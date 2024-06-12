@@ -28,7 +28,7 @@ const Search = () => {
           <option value="stars">Stars</option>
           <option value="forks">Forks</option>
         </Form.Control>
-        <Button type="submit">Search</Button>
+        <Button type="Submit">Search</Button>
       </Form>
       <div className="repos-container">
         {repos.map((repo) => (
